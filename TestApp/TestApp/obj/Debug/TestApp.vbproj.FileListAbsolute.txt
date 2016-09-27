@@ -1,0 +1,11 @@
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\bin\Debug\TestApp.xml
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.vbprojResolveAssemblyReference.cache
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.Resources.resources
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.vbproj.GenerateResource.Cache
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.xml
+C:\desarrollo\prueba_repo\VS_project\TestApp\TestApp\obj\Debug\TestApp.pdb
